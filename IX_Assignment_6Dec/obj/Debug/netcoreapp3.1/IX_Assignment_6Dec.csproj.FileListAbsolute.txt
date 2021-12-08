@@ -1,0 +1,14 @@
+D:\study\cSharp\Sumit Shinde assgnments\IX_Assignment_6Dec\bin\Debug\netcoreapp3.1\IX_Assignment_6Dec.exe
+D:\study\cSharp\Sumit Shinde assgnments\IX_Assignment_6Dec\bin\Debug\netcoreapp3.1\IX_Assignment_6Dec.deps.json
+D:\study\cSharp\Sumit Shinde assgnments\IX_Assignment_6Dec\bin\Debug\netcoreapp3.1\IX_Assignment_6Dec.runtimeconfig.json
+D:\study\cSharp\Sumit Shinde assgnments\IX_Assignment_6Dec\bin\Debug\netcoreapp3.1\IX_Assignment_6Dec.runtimeconfig.dev.json
+D:\study\cSharp\Sumit Shinde assgnments\IX_Assignment_6Dec\bin\Debug\netcoreapp3.1\IX_Assignment_6Dec.dll
+D:\study\cSharp\Sumit Shinde assgnments\IX_Assignment_6Dec\bin\Debug\netcoreapp3.1\IX_Assignment_6Dec.pdb
+D:\study\cSharp\Sumit Shinde assgnments\IX_Assignment_6Dec\obj\Debug\netcoreapp3.1\IX_Assignment_6Dec.csproj.AssemblyReference.cache
+D:\study\cSharp\Sumit Shinde assgnments\IX_Assignment_6Dec\obj\Debug\netcoreapp3.1\IX_Assignment_6Dec.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\cSharp\Sumit Shinde assgnments\IX_Assignment_6Dec\obj\Debug\netcoreapp3.1\IX_Assignment_6Dec.AssemblyInfoInputs.cache
+D:\study\cSharp\Sumit Shinde assgnments\IX_Assignment_6Dec\obj\Debug\netcoreapp3.1\IX_Assignment_6Dec.AssemblyInfo.cs
+D:\study\cSharp\Sumit Shinde assgnments\IX_Assignment_6Dec\obj\Debug\netcoreapp3.1\IX_Assignment_6Dec.csproj.CoreCompileInputs.cache
+D:\study\cSharp\Sumit Shinde assgnments\IX_Assignment_6Dec\obj\Debug\netcoreapp3.1\IX_Assignment_6Dec.dll
+D:\study\cSharp\Sumit Shinde assgnments\IX_Assignment_6Dec\obj\Debug\netcoreapp3.1\IX_Assignment_6Dec.pdb
+D:\study\cSharp\Sumit Shinde assgnments\IX_Assignment_6Dec\obj\Debug\netcoreapp3.1\IX_Assignment_6Dec.genruntimeconfig.cache
