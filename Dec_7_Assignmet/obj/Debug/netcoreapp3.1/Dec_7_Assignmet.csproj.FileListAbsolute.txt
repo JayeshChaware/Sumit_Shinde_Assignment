@@ -1,0 +1,14 @@
+D:\study\cSharp\Sumit Shinde assgnments\Dec_7_Assignmet\bin\Debug\netcoreapp3.1\Dec_7_Assignmet.exe
+D:\study\cSharp\Sumit Shinde assgnments\Dec_7_Assignmet\bin\Debug\netcoreapp3.1\Dec_7_Assignmet.deps.json
+D:\study\cSharp\Sumit Shinde assgnments\Dec_7_Assignmet\bin\Debug\netcoreapp3.1\Dec_7_Assignmet.runtimeconfig.json
+D:\study\cSharp\Sumit Shinde assgnments\Dec_7_Assignmet\bin\Debug\netcoreapp3.1\Dec_7_Assignmet.runtimeconfig.dev.json
+D:\study\cSharp\Sumit Shinde assgnments\Dec_7_Assignmet\bin\Debug\netcoreapp3.1\Dec_7_Assignmet.dll
+D:\study\cSharp\Sumit Shinde assgnments\Dec_7_Assignmet\bin\Debug\netcoreapp3.1\Dec_7_Assignmet.pdb
+D:\study\cSharp\Sumit Shinde assgnments\Dec_7_Assignmet\obj\Debug\netcoreapp3.1\Dec_7_Assignmet.csproj.AssemblyReference.cache
+D:\study\cSharp\Sumit Shinde assgnments\Dec_7_Assignmet\obj\Debug\netcoreapp3.1\Dec_7_Assignmet.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\cSharp\Sumit Shinde assgnments\Dec_7_Assignmet\obj\Debug\netcoreapp3.1\Dec_7_Assignmet.AssemblyInfoInputs.cache
+D:\study\cSharp\Sumit Shinde assgnments\Dec_7_Assignmet\obj\Debug\netcoreapp3.1\Dec_7_Assignmet.AssemblyInfo.cs
+D:\study\cSharp\Sumit Shinde assgnments\Dec_7_Assignmet\obj\Debug\netcoreapp3.1\Dec_7_Assignmet.csproj.CoreCompileInputs.cache
+D:\study\cSharp\Sumit Shinde assgnments\Dec_7_Assignmet\obj\Debug\netcoreapp3.1\Dec_7_Assignmet.dll
+D:\study\cSharp\Sumit Shinde assgnments\Dec_7_Assignmet\obj\Debug\netcoreapp3.1\Dec_7_Assignmet.pdb
+D:\study\cSharp\Sumit Shinde assgnments\Dec_7_Assignmet\obj\Debug\netcoreapp3.1\Dec_7_Assignmet.genruntimeconfig.cache
