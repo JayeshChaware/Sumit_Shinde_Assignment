@@ -38,7 +38,7 @@ namespace IX_Assignment_6Dec
             print("Jayesh"); 
 
             ReflectionDemo refDemo = new ReflectionDemo();
-            refDemo.GetType(); //reflection example
+            refDemo.GetElementType(); //reflection example
         }
     }
 }
