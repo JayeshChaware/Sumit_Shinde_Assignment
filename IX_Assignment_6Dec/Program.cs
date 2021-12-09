@@ -14,7 +14,7 @@ namespace IX_Assignment_6Dec
             CalculateNaturalNuber CalculateProduct = new CalculateNaturalNuber(Calculator.Product);//delegate object for Product method
             CalculateProduct(9, 21);
 
-            CalculateNaturalNuber[] CalculateAll = new CalculateNaturalNuber[3];
+            CalculateNaturalNuber[] CalculateAll = new CalculateNaturalNuber[3];  //array of delegate
             CalculateAll[0] = new CalculateNaturalNuber(Calculator.Sum);
             CalculateAll[1] = new CalculateNaturalNuber(Calculator.Product);
             CalculateAll[2] = new CalculateNaturalNuber(Calculator.Modulus);
@@ -22,7 +22,7 @@ namespace IX_Assignment_6Dec
             CalculateAll[1](13, 5);
             CalculateAll[2](13, 5);
 
-            CalculateNaturalNuber calSum, calProduct, calModulus, calAll;
+            CalculateNaturalNuber calSum, calProduct, calModulus, calAll;  //multi casting delegate
             calSum = new CalculateNaturalNuber(Calculator.Sum);
              calProduct= new CalculateNaturalNuber(Calculator.Product);
             calModulus = new CalculateNaturalNuber(Calculator.Modulus);
@@ -30,11 +30,15 @@ namespace IX_Assignment_6Dec
 
             calAll(7,21);
 
-            DisplayMessage print = delegate (string name) {
+            DisplayMessage print = delegate (string name)
+            {                                                //anonymous delegate
                 Console.WriteLine("Welcome {0}", name);
             };
 
-            print("Jayesh");
+            print("Jayesh"); 
+
+            ReflectionDemo refDemo = new ReflectionDemo();
+            refDemo.GetType(); //reflection example
         }
     }
 }
