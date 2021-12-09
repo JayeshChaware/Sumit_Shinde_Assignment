@@ -1,0 +1,14 @@
+D:\study\cSharp\Sumit Shinde assgnments\StringBuilderFuncton\bin\Debug\netcoreapp3.1\StringBuilderFuncton.exe
+D:\study\cSharp\Sumit Shinde assgnments\StringBuilderFuncton\bin\Debug\netcoreapp3.1\StringBuilderFuncton.deps.json
+D:\study\cSharp\Sumit Shinde assgnments\StringBuilderFuncton\bin\Debug\netcoreapp3.1\StringBuilderFuncton.runtimeconfig.json
+D:\study\cSharp\Sumit Shinde assgnments\StringBuilderFuncton\bin\Debug\netcoreapp3.1\StringBuilderFuncton.runtimeconfig.dev.json
+D:\study\cSharp\Sumit Shinde assgnments\StringBuilderFuncton\bin\Debug\netcoreapp3.1\StringBuilderFuncton.dll
+D:\study\cSharp\Sumit Shinde assgnments\StringBuilderFuncton\bin\Debug\netcoreapp3.1\StringBuilderFuncton.pdb
+D:\study\cSharp\Sumit Shinde assgnments\StringBuilderFuncton\obj\Debug\netcoreapp3.1\StringBuilderFuncton.csproj.AssemblyReference.cache
+D:\study\cSharp\Sumit Shinde assgnments\StringBuilderFuncton\obj\Debug\netcoreapp3.1\StringBuilderFuncton.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\cSharp\Sumit Shinde assgnments\StringBuilderFuncton\obj\Debug\netcoreapp3.1\StringBuilderFuncton.AssemblyInfoInputs.cache
+D:\study\cSharp\Sumit Shinde assgnments\StringBuilderFuncton\obj\Debug\netcoreapp3.1\StringBuilderFuncton.AssemblyInfo.cs
+D:\study\cSharp\Sumit Shinde assgnments\StringBuilderFuncton\obj\Debug\netcoreapp3.1\StringBuilderFuncton.csproj.CoreCompileInputs.cache
+D:\study\cSharp\Sumit Shinde assgnments\StringBuilderFuncton\obj\Debug\netcoreapp3.1\StringBuilderFuncton.dll
+D:\study\cSharp\Sumit Shinde assgnments\StringBuilderFuncton\obj\Debug\netcoreapp3.1\StringBuilderFuncton.pdb
+D:\study\cSharp\Sumit Shinde assgnments\StringBuilderFuncton\obj\Debug\netcoreapp3.1\StringBuilderFuncton.genruntimeconfig.cache
